@@ -12,3 +12,6 @@ Elaborado no 4° semestre da faculdade de Sistemas de Informação - Mackenzie
 :octocat: BEATRIZ VIEIRA
 :octocat: DAVI PENA
 :octocat: LETICIA SILVA
+
+<h2> LICENSE :point_down: :point_down: </h2>
+Consulte o arquivo LICENSE.md para saber e obter seus direitos e limitações (MIT License). 
