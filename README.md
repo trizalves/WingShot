@@ -4,9 +4,9 @@
 
 ### JOGO DIGITAL 🇧🇷 
 <h2> Linguagem de Programação utilizada (Pygame)</h2> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-          
-![WingShot_LOGO](https://user-images.githubusercontent.com/89753145/202053375-d60ce084-ce51-4fc0-b44d-fd022691ee91.PNG)
-
+        
+![WhatsApp Image 2022-11-15 at 22 21 02](https://user-images.githubusercontent.com/89753145/202060045-b9fbc290-8029-4b98-b553-9dd4ca01c820.jpeg)
+  
 Elaborado no 4° semestre da faculdade de Sistemas de Informação - Mackenzie
 
 :octocat: BEATRIZ VIEIRA
